@@ -1,0 +1,7 @@
+C:\Users\user\Documents\C#\WeatherWeatherLang\bin\Debug\WeatherWeatherLang.exe.config
+C:\Users\user\Documents\C#\WeatherWeatherLang\bin\Debug\WeatherWeatherLang.exe
+C:\Users\user\Documents\C#\WeatherWeatherLang\bin\Debug\WeatherWeatherLang.pdb
+C:\Users\user\Documents\C#\WeatherWeatherLang\obj\Debug\WeatherWeatherLang.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C#\WeatherWeatherLang\obj\Debug\WeatherWeatherLang.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C#\WeatherWeatherLang\obj\Debug\WeatherWeatherLang.exe
+C:\Users\user\Documents\C#\WeatherWeatherLang\obj\Debug\WeatherWeatherLang.pdb
